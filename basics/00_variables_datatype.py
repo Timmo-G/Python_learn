@@ -9,7 +9,7 @@ user_name = 'G'
 # print用法
 print('Hello World')
 
-print('My nane is','Gdy')
+print('My name is','Gdy')
 #常见的数据类型
 my_int_var = 10
 print(type(my_int_var))
