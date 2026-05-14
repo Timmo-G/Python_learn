@@ -4,6 +4,7 @@
 
 ## 📋 当前学习状态
 
+- 
 - **学习平台**: [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - **学习阶段**: 第二阶段 - Python Loops and sequences
 - **学习目标**: 掌握Python核心语法，为后续科学计算和3DGS研究打下基础
