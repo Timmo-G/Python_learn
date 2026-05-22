@@ -39,7 +39,7 @@ for num in range(5):
         print(f'条件不成立 {num} 跳过')
     
 print(f'最终结果: {even_num}')
-print(f'尝试访问 num: ',end ='')
+print('尝试访问 num: ', end='')
 
 try:
     print(num)
