@@ -62,6 +62,7 @@ print(C.shape)
 # np.linalg.inv() 计算矩阵的逆
 sigma = np.array([[3.0,1.0],
                   [1.0,3.0]])
+# eig计算特征值
 eigenvalues,Q = np.linalg.eig(sigma)
 print('特征值:',eigenvalues)
 print('特征向量:',Q)
